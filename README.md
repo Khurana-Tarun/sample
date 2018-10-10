@@ -1,0 +1,5 @@
+- [x] GitHub
+- [ ] Bitbucket
+- [x] GitLab
+- [ ] Stash
+- [ ] Crucible/FishEye
